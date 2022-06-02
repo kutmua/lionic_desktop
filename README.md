@@ -3,7 +3,8 @@
 📒 Educational project.  
 🖥 The desktop version of the Lionic website.  
 ☑️ The task was to create only a desktop version of the site.  
-I did't use BEM in the project.  
+I did't use BEM in the project.
+https://kutmua.github.io/lionic_desktop/
 
 ### Section Hero 
 ![image](https://user-images.githubusercontent.com/101246310/157467823-f56c9178-35b5-415d-90e7-9925de25f41f.png)  
